@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+h1 {
+    border: 1px solid black;
+    color: red;
+    display: inline-block;
+    width: 400px;
+}
+div {
+    display: inline-block;
+    vertical-align: top;
+    width: 1200px;
+    border: 1px solid black;
+    height: 100px;
+    overflow: scroll;
+}
+p {
+    color: blue;
+}
+.black {
+    color: black;
+    text-align: right;
+}
+
